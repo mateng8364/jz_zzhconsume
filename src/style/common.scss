@@ -1,0 +1,23 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+ul, ol, li {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  overflow-x:auto;
+  overflow-y:scroll;
+}
+body, dl, dt, dd, ul, ol, li, pre, form, fieldset, input, p, blockquote, th, td, p, div {
+font-weight:400;
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+h1, h2, h3, h4, h4, h5 {
+margin:0;
+padding:0;
+}
